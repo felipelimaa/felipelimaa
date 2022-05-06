@@ -2,6 +2,8 @@
 
 - 🔭 Hoje trabalho como Engenheiro de Software Back-end
 - 🌱 Estudando Spring Boot
+- 🌱 Estudando Programação Reativa (Reactive Programming)
+- 🌱 Estudando Máquina de Estados (State Machine)
 - 📫 Contate-me no e-mail: fearlimasi@gmail.com
 
 
