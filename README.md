@@ -1,9 +1,11 @@
 ## 👋🏼 Opa!!! E ai? Eu sou o Felipe Lima 🤙🏼
 
 - 🔭 Hoje trabalho como Engenheiro de Software Back-end
-- 🌱 Estudando Spring Boot
-- 🌱 Estudando Programação Reativa (Reactive Programming)
-- 🌱 Estudando Máquina de Estados (State Machine)
+- 👨‍💻 Spring Boot
+- 👨‍💻 Programação Reativa (Reactive Programming)
+- 👨‍💻 Estudando Máquina de Estados (State Machine)
+- 👨‍💻 AWS
+- 🌱 Estudando Golang
 - 📫 Contate-me no e-mail: fearlimasi@gmail.com
 
 
