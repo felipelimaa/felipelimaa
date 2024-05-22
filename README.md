@@ -3,9 +3,8 @@
 - 🔭 Hoje trabalho como Engenheiro de Software Back-end
 - 👨‍💻 Spring Boot
 - 👨‍💻 Programação Reativa (Reactive Programming)
-- 👨‍💻 Estudando Máquina de Estados (State Machine)
-- 👨‍💻 AWS
-- 🌱 Estudando Golang
+- 👨‍💻 Golang
+- 👨‍💻 AWS Solutions Architect
 - 📫 Contate-me no e-mail: fearlimasi@gmail.com
 
 
