@@ -1,4 +1,4 @@
-## 👋🏼 Opa!!! E ai? Eu sou o Felipe Lima 🤙🏼
+## 🇧🇷 👋🏼 Opa!!! E ai? Eu sou o Felipe Lima 🤙🏼
 
 - 🔭 Hoje trabalho como Engenheiro de Software Back-end
 - 👨‍💻 Spring Boot
@@ -6,6 +6,15 @@
 - 👨‍💻 Golang
 - 👨‍💻 AWS Solutions Architect
 - 📫 Contate-me no e-mail: fearlimasi@gmail.com
+
+## 🇺🇸 👋🏼 Hello there!!! I'm Felipe Lima 🤙🏼
+
+- 🔭 Today I'm a Software Engineer Back-end
+- 👨‍💻 Spring Boot
+- 👨‍💻 Reactive Programming
+- 👨‍💻 Golang
+- 👨‍💻 AWS Solutions Architect
+- 📫 Send e-mail to me: fearlimasi@gmail.com
 
 
 <div align="center">
@@ -20,7 +29,8 @@
   <img align="center" alt="Felipe-Groovy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg">
   <img align="center" alt="Felipe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Felipe-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Felipe-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Felipe-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img align="center" alt="Felipe-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg">
   <img align="center" alt="Felipe-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Felipe-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Felipe-Postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -31,9 +41,6 @@
 <div> 
   <a href="https://instagram.com/devfelipelima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:fearlimasi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-lima-3010" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/felipelimaa/felipelimaa/blob/output/github-contribution-grid-snake.svg)
-  
+  <a href="https://www.linkedin.com/in/felipe-lima-3010" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
